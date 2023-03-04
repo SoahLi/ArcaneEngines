@@ -2,4 +2,4 @@
 
 ## About
 
-Arcane Engines is a *deckbuilder*
+Arcane Engines is a **deckbuilder**
